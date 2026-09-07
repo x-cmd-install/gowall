@@ -5,13 +5,13 @@ about:
   head: 96345aa
   archived: false
   latestVersion: "v0.2.4"
-  collectedAt: 2026-09-07T06:07:40Z
+  collectedAt: 2026-09-07T18:22:55Z
 timeline:
   created: 2024-07-22
   lastCommit: 2026-06-10
   lastRelease: 2026-04-09
 popularity:
-  star: 2307
+  star: 2309
   watcher: 9
   fork: 36
   release: 12
@@ -79,7 +79,7 @@ total:
   commit: 195
 ---
 path: /home/runner/.x-repo/github.com/Achno/gowall
-collectedAt: 2026-09-07T06:07:41Z
+collectedAt: 2026-09-07T18:22:55Z
 loc:
   Go:
     code: 10861
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:07:42+00:00
+  collectedAt: 2026-09-07T18:22:56+00:00
   platform:
     darwin/arm64:
       name:  gowall-arm64-darwin.tar.gz
