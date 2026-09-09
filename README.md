@@ -7,7 +7,7 @@ A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Tradition
 - **Latest release**: `v0.2.4` (2026-04-09)
 - **Last commit**: 2026-06-10
 - **License**: MIT
-- **Stars**: 2310 · **Forks**: 36 · **Open issues**: 42 · **Contributors**: 9
+- **Stars**: 2311 · **Forks**: 36 · **Open issues**: 42 · **Contributors**: 9
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gowall> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:11:55Z._
+_Last regenerated: 2026-09-09T20:51:09Z._
