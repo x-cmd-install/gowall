@@ -4,7 +4,7 @@
 
 A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
 
-![gowall](https://repo.x-cmd.io/gowall.svg?lang=zh)
+[![x-cmd/install — gowall Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gowall.svg?lang=zh)](https://x-cmd.com/install/gowall)
 
 ## 安装
 
@@ -35,7 +35,7 @@ x install gowall
 
 ## 流行度
 
-- **Star**: 2,309 · **Fork**: 36 · **开放 issue**: 42 · **贡献者**: 9
+- **Star**: 2,311 · **Fork**: 36 · **开放 issue**: 42 · **贡献者**: 9
 
 ## 累计统计
 
@@ -45,12 +45,12 @@ x install gowall
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 3 | 1 | 2 | 1 | 16 |
-| 360d | 2025-09-23 | 3 | 8 | 1 | 8 | 4 | 39 |
-| last720d | 2024-09-28 | 6 | 23 | 5 | 32 | 7 | 147 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 3 | 1 | 2 | 1 | 14 |
+| 360d | 2025-09-25 | 3 | 8 | 1 | 8 | 4 | 39 |
+| last720d | 2024-09-30 | 6 | 23 | 5 | 32 | 7 | 147 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ gowall 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:16:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:12:57Z._
