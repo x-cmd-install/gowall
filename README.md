@@ -14,11 +14,11 @@ x install gowall
 
 ## Code insight
 
-Total: **11,349** lines of code across **110** files in the top 5 languages.
+Total: **11,650** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,349 | 558 | 2,386 | 109 |
+| Go | 11,650 | 577 | 2,426 | 112 |
 | Markdown | 0 | 144 | 66 | 1 |
 
 ## Source
@@ -30,27 +30,27 @@ Total: **11,349** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.4` (2026-04-09)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-11
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,313 · **Forks**: 37 · **Open issues**: 43 · **Contributors**: 9
+- **Stars**: 2,314 · **Forks**: 37 · **Open issues**: 43 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 5 · **Closed issues**: 35 · **Open issues**: 8 · **Commits**: 197
+- **Releases**: 12 · **Merged PRs**: 30 · **Open PRs**: 5 · **Closed issues**: 35 · **Open issues**: 8 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 2 | 0 | 0 | 1 | 2 |
-| last60d | 2026-08-12 | 0 | 2 | 0 | 0 | 1 | 2 |
-| 90d | 2026-07-13 | 0 | 2 | 0 | 0 | 1 | 2 |
-| last180d | 2026-04-14 | 0 | 2 | 1 | 1 | 2 | 5 |
-| 360d | 2025-10-16 | 1 | 10 | 1 | 8 | 2 | 32 |
-| last720d | 2024-10-21 | 6 | 25 | 5 | 32 | 8 | 145 |
+| 30d | 2026-09-12 | 0 | 3 | 0 | 0 | 1 | 3 |
+| last60d | 2026-08-13 | 0 | 3 | 0 | 0 | 1 | 3 |
+| 90d | 2026-07-14 | 0 | 3 | 0 | 0 | 1 | 3 |
+| last180d | 2026-04-15 | 0 | 3 | 1 | 1 | 2 | 6 |
+| 360d | 2025-10-17 | 1 | 11 | 1 | 8 | 2 | 33 |
+| last720d | 2024-10-22 | 6 | 26 | 5 | 32 | 8 | 146 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for gowall lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:44:58Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:19:45Z._
