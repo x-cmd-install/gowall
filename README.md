@@ -35,7 +35,7 @@ Total: **13,144** lines of code across **127** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,331 · **Forks**: 38 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 2,332 · **Forks**: 38 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **13,144** lines of code across **127** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 6 | 2 | 0 | 1 | 10 |
-| last60d | 2026-09-09 | 0 | 7 | 2 | 0 | 2 | 15 |
-| 90d | 2026-08-10 | 0 | 7 | 2 | 0 | 2 | 15 |
-| last180d | 2026-05-12 | 0 | 7 | 2 | 1 | 2 | 18 |
-| 360d | 2025-11-13 | 1 | 15 | 3 | 5 | 3 | 45 |
-| last720d | 2024-11-18 | 5 | 29 | 7 | 31 | 9 | 157 |
+| 30d | 2026-10-11 | 0 | 4 | 2 | 0 | 1 | 10 |
+| last60d | 2026-09-11 | 0 | 7 | 2 | 0 | 2 | 15 |
+| 90d | 2026-08-12 | 0 | 7 | 2 | 0 | 2 | 15 |
+| last180d | 2026-05-14 | 0 | 7 | 2 | 1 | 2 | 18 |
+| 360d | 2025-11-15 | 1 | 15 | 3 | 5 | 3 | 45 |
+| last720d | 2024-11-20 | 5 | 29 | 7 | 30 | 9 | 156 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for gowall lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:10:27Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:57:33Z._
