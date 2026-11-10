@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14262217,
       "digest": "sha256:c388dc5d0c00d4580db91f809cf3bafd9bcbbc44bba7d4e10ab3fb7de11ab2c0",
-      "download_count": 44,
+      "download_count": 46,
       "created_at": "2026-04-09T18:36:38Z",
       "updated_at": "2026-04-09T18:36:39Z",
       "browser_download_url": "https://github.com/Achno/gowall/releases/download/v0.2.4/gowall-amd64-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14307058,
       "digest": "sha256:dab486d5028e5f790fbd92dd26022ac5670b0d01adef4bd632ba7115c2d34ad3",
-      "download_count": 15039,
+      "download_count": 15218,
       "created_at": "2026-04-09T18:36:42Z",
       "updated_at": "2026-04-09T18:36:42Z",
       "browser_download_url": "https://github.com/Achno/gowall/releases/download/v0.2.4/gowall-amd64-linux.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13354755,
       "digest": "sha256:9820acf5dfeb717353fd227619fa84a81fb2b3ed633d5d749a33908a7cef46cb",
-      "download_count": 39,
+      "download_count": 43,
       "created_at": "2026-04-09T18:36:37Z",
       "updated_at": "2026-04-09T18:36:38Z",
       "browser_download_url": "https://github.com/Achno/gowall/releases/download/v0.2.4/gowall-arm64-darwin.tar.gz"
