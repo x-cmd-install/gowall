@@ -35,7 +35,7 @@ Total: **13,998** lines of code across **135** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,332 · **Forks**: 38 · **Open issues**: 44 · **Contributors**: 9
+- **Stars**: 2,334 · **Forks**: 38 · **Open issues**: 44 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **13,998** lines of code across **135** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 5 | 2 | 0 | 1 | 5 |
-| last60d | 2026-09-25 | 0 | 12 | 2 | 0 | 2 | 20 |
-| 90d | 2026-08-26 | 0 | 12 | 2 | 0 | 2 | 20 |
-| last180d | 2026-05-28 | 0 | 12 | 2 | 1 | 2 | 21 |
-| 360d | 2025-11-29 | 1 | 20 | 3 | 5 | 3 | 50 |
-| last720d | 2024-12-04 | 5 | 33 | 7 | 30 | 9 | 155 |
+| 30d | 2026-10-26 | 0 | 5 | 2 | 0 | 1 | 5 |
+| last60d | 2026-09-26 | 0 | 12 | 2 | 0 | 2 | 20 |
+| 90d | 2026-08-27 | 0 | 12 | 2 | 0 | 2 | 20 |
+| last180d | 2026-05-29 | 0 | 12 | 2 | 1 | 2 | 21 |
+| 360d | 2025-11-30 | 1 | 20 | 3 | 5 | 3 | 50 |
+| last720d | 2024-12-05 | 5 | 33 | 7 | 30 | 9 | 155 |
 
 ## Release assets
 
@@ -62,16 +62,6 @@ Total: **13,998** lines of code across **135** files in the top 5 languages.
 | [gowall-arm64-darwin.tar.gz](https://github.com/Achno/gowall/releases/download/v0.2.4/gowall-arm64-darwin.tar.gz) | 12.7 MiB | `native/darwin/arm64` |
 | [gowall-arm64-windows.tar.gz](https://github.com/Achno/gowall/releases/download/v0.2.4/gowall-arm64-windows.tar.gz) | 12.7 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/gowall). **6** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.2.4` | ✅ latest |
-| Nix unstable | `0.2.4` | ✅ latest |
-| Void | `0.2.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for gowall lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gowall` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +71,4 @@ Install metadata for gowall lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:16:37Z._
