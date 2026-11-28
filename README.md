@@ -39,18 +39,18 @@ Total: **13,998** lines of code across **135** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 39 · **Open PRs**: 7 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 216
+- **Releases**: 12 · **Merged PRs**: 39 · **Open PRs**: 8 · **Closed issues**: 35 · **Open issues**: 9 · **Commits**: 216
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 5 | 2 | 0 | 1 | 5 |
-| last60d | 2026-09-28 | 0 | 12 | 2 | 0 | 2 | 20 |
-| 90d | 2026-08-29 | 0 | 12 | 2 | 0 | 2 | 20 |
-| last180d | 2026-05-31 | 0 | 12 | 2 | 1 | 2 | 21 |
-| 360d | 2025-12-02 | 1 | 20 | 3 | 5 | 3 | 50 |
-| last720d | 2024-12-07 | 5 | 33 | 7 | 30 | 9 | 155 |
+| 30d | 2026-10-29 | 0 | 5 | 3 | 0 | 1 | 5 |
+| last60d | 2026-09-29 | 0 | 12 | 3 | 0 | 2 | 20 |
+| 90d | 2026-08-30 | 0 | 12 | 3 | 0 | 2 | 20 |
+| last180d | 2026-06-01 | 0 | 12 | 3 | 1 | 2 | 21 |
+| 360d | 2025-12-03 | 1 | 20 | 4 | 5 | 3 | 50 |
+| last720d | 2024-12-08 | 5 | 33 | 8 | 30 | 9 | 154 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for gowall lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:39:03Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:23:46Z._
